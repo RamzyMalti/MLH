@@ -1,0 +1,25 @@
+#sign-up{
+	text-align: right; 
+}
+#Login{
+	text-align: right;
+}
+#Logo{
+	text-align: left;
+}
+h2{
+	text-align: center;
+	color: maroon;
+	font-family: Comic Sans MS ;
+	font-style: italic;
+}
+.intro{
+	color: maroon;
+	font-family: Comic Sans MS ;
+	font-style: italic;
+}
+h4{
+	color: maroon;
+	font-family: Comic Sans MS ;
+	font-style: italic;
+}
